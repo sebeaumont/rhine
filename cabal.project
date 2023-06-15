@@ -1,1 +1,1 @@
-packages: */*.cabal
+cabal.9.4.4.project
